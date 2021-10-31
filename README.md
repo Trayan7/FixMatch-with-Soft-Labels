@@ -1,3 +1,5 @@
+This code was adapted in the scope of a master thesis to allow the usage of soft labels. The original can be found at https://github.com/google-research/fixmatch. Thank you, for providing a great basis for evaluating different Semi-supervised learning models.
+
 # FixMatch
 
 Code for the paper: "[FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)" by 
